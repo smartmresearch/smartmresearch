@@ -3,10 +3,10 @@
 ![logo_smart-research_AVmPMD](https://github.com/user-attachments/assets/4e4410e2-a983-4a13-9703-4b47a54ce40b)
 
 ### Smart Research
-Conectando 👨‍🔬 pesquisadores e 🫂 usuários
+Connecting 👨‍🔬 researchers and 🫂 users
 
-Encontre os participantes ideais para as suas pesquisas
+Find the ideal participants for your research
 
-[Conheça nossos serviços](https://www.smartmresearch.com/) | [Trabalhe conosco](https://www.linkedin.com/company/smartmresearch/jobs/)
+[Explore our services](https://www.smartmresearch.com/) | [Work with us](https://www.linkedin.com/company/smartmresearch/jobs/)
 
 </div>
